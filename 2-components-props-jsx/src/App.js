@@ -24,13 +24,14 @@ const User = (props) => {
 	);
 };
 
-const Job = (props) => {
-	return (
-		<div>
-			<h1>{props.salary}</h1>
-			<h1>{props.poition}</h1>
-			<h1>{props.comapny}</h1>
-		</div>
-	);
-};
+//exercise
+//const Job = (props) => {
+//	return (
+//		<div>
+//			<h1>{props.salary}</h1>
+//			<h1>{props.poition}</h1>
+//			<h1>{props.comapny}</h1>
+//		</div>
+//	);
+//};
 export default App;
